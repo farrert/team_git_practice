@@ -9,7 +9,9 @@ I was born to a small flock of colorful hummingbirds.
 
 (P3) I was born to a destructive army of caterpillars. 
 
+(P1) My favorite food is pizza.
+
 (P2) My Favortite food is smoothies.
 
-(P1) My favorite food is pizza.
+
 
